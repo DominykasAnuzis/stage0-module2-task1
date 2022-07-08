@@ -1,4 +1,4 @@
-package talks.mjc;
+package com.mjc.stage0;
 
 import org.junit.jupiter.api.Test;
 
